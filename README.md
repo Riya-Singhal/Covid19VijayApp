@@ -1,1 +1,3 @@
 # Covid19VijayApp
+It is an organized system for the government administration and the local people (as users) for the COVID-19 vaccination residing in any prescribed area. For the administration, the algorithm prioritizes the people, which are to be vaccinated, on the basis of the priority list declared by the Government of India. Also, for the administration, the administration will have data of local people under that administration area whose some of the entries are aadhar number, isVaccinated, age, occupation etc. It allows user, after entering the aadhar number on the platform, the date of vaccination allotted for him/her.
+
